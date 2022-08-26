@@ -1,0 +1,4 @@
+.gitreview
+__pycache__
+.vscode
+Dockerfile
